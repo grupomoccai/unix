@@ -18,6 +18,3 @@
 -   The Art of R Programming (libro)
 -   R graphics cookbook (libro)
 
-
-sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiLlqyBtKXTAhVKkpAKHUUJC_gQFggiMAA&url=https%253A%252F%252Fstat.ethz.ch%252FTeaching%252Fmaechler%252FR%252FuseR_2014%252FMaechler-2014-pr.pdf&usg=AFQjCNFHw5c2_iUWOkPiQV6wFqLGi7vdKw&sig2=K2BnXLKpXG0lCSQt1HrS3Q)
-
