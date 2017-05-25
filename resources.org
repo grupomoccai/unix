@@ -23,9 +23,3 @@
 - The Art of R Programming (libro)
 - R graphics cookbook (libro)
 - Practical Data Science with R (libro)
-
-# - [[http://stat405.had.co.nz/][Hadley's Stats 405 course]] - [[file:~/Projects/REF%20-%20LEARNING/LEARNING%20I%20-%20RESOURCES%20-%20BOOKS%20AND%20PAPERS%20/LEARN-R/**%20Hadleyverse%20material/stat%20405%20-%20course/][local Stat 405]] (more material online)
-# - [[file:~/Projects/REF%20-%20LEARNING/LEARNING%20I%20-%20RESOURCES%20-%20BOOKS%20AND%20PAPERS%20/LEARN-R/Machine%20Learning%20in%20R%20-%20Alexandros%20Karatzoglou.pdf][Machine Learning in R - Alexandros Karatzoglou]]
-  # - [[file:~/Projects/REF%20-%20LEARNING/LEARNING%20I%20-%20RESOURCES%20-%20BOOKS%20AND%20PAPERS%20/LEARN-R/R%20Books/][*** Recommended Books in R ***]]
-# - [[file:~/Projects/REF%20-%20LEARNING/LEARNING%20I%20-%20RESOURCES%20-%20BOOKS%20AND%20PAPERS/LEARN-CS%20&%20DATA%20SCIENCE/Data%20Science%20Course%20with%20videos%20from%20University%20of%20Washington][Data Science Course with videos from University of Washington]]
-# - [[file:~/Projects/REF%20-%20LEARNING/LEARNING%20I%20-%20RESOURCES%20-%20BOOKS%20AND%20PAPERS%20/LEARN-R/John%20Hopkings%20video%20lectures%20-%20Computing%20for%20Data%20Analysis/][John Hopkings video lectures - Computing for Data Analysis]]
