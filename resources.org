@@ -11,7 +11,7 @@
 #+end_src
 #+results:
 
-* Bibliografía
+* Bibliografíaaaaaa
 - [[http://arrgh.tim-smith.us/][aRrgh: a newcomer’s (angry) guide to R]]
 - [[http://r4ds.had.co.nz/index.html][R for Data Science]]
 - [[http://rmarkdown.rstudio.com/lesson-1.html][R Markdown from RStudio]]
