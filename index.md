@@ -25,7 +25,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 -   Inv. Adjunto CONICET y Prof. Adjunto FCEN
 
--   <span class="underline">lgmoyano@gmail.com</span> 
+-   <span class="underline">rdanielmillan@gmail.com</span> 
 
 1.  Créditos
 
