@@ -1,4 +1,4 @@
-#+title: Programación y análisis de datos en R con aplicaciones científicas - 2017
+#+title: Introducción a UNIX - 2017
 #+STARTUP: showall expand
 #+options: toc:nil
 
@@ -9,7 +9,7 @@ title: index
 --- 
 #+end_src 
 #+results:
-* Programación y análisis de datos en R con aplicaciones científicas 
+* Introducción a UNIX
 
 Este curso tiene como objetivo transmitir los principales conceptos del lenguaje de programación R y
 entrenar en su utilización ya que es una útil herramienta para la investigación científica. Nos
