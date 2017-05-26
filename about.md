@@ -7,8 +7,7 @@ weight: 10
 
 ## Carreras:
 
--   PGU en Ciencias Básicas con orientación en Biología, Física, Matemática, Geología y Química
--   Licenciatura en Ciencias Básicas con orientación en Biología, Física, Matemática, Geología y Química
+-   Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior).
 
 ## [Programa]({{ site.url }}/assets/programa2017.pdf)
 
