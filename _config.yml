@@ -1,7 +1,7 @@
 # Site settings
 title: Introducción a UNIX - 2017
 email: rdanielmillan@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # introducción a unix
  Electiva N° 182 Introducción a UNIX
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
