@@ -11,7 +11,7 @@ weight: 10
 -   Licenciatura en Ciencias Básicas con orientación en Biología, Física, Matemática, Geología y Química
 
 
-## [Programa]({{ site.url }}/assets/programa2017.pdf)
+## [Programa]({{ site.url }}/assets/B- Plantilla Programa.pdf)
 
 
 ## Objetivos
