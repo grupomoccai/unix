@@ -10,7 +10,7 @@ weight: 10
 -   PGU en Ciencias Básicas con orientación en Biología, Física, Matemática, Geología y Química
 -   Licenciatura en Ciencias Básicas con orientación en Biología, Física, Matemática, Geología y Química
 
-
+## [Programa]({{ site.url }}/assets/programa2017.pdf)
 
 ## Objetivos
 
