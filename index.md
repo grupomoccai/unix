@@ -21,10 +21,11 @@ flexible lenguaje de programación.
 
 ## Fechas y Horarios
 
--   Martes y Miércoles, de 9:00 a 12:00
--   Fecha de inicio: 18 de Abril
--   Duración: 48 hs (8 semanas) para carreras de grado, 60 hs (10 semanas) para carreras de posgrado
--   La materia de dicta en la sala de computación
+-   Martes, de 8:00 a 9:30
+-   Viernes, de 8:00 a 11
+-   Fecha de inicio: 29 de Mayo
+-   Duración: 48 hs (5 semanas) para carreras de grado, 
+-   La materia de dicta en el aula 
 
 
 ## Herramientas
