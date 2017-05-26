@@ -4,7 +4,7 @@ title: index
 --- 
 
 
-# Programación y análisis de datos en R con aplicaciones científicas
+# Introducción a UNIX
 
 Este curso tiene como objetivo transmitir los principales conceptos del lenguaje de programación R y
 entrenar en su utilización ya que es una útil herramienta para la investigación científica. Nos
