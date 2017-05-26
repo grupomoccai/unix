@@ -24,7 +24,7 @@ flexible lenguaje de programación.
 -   Martes, de 8:00 a 9:30
 -   Viernes, de 8:00 a 11
 -   Fecha de inicio: 29 de Mayo
--   Duración: 48 hs (5 semanas) para carreras de grado, 
+-   Duración: 30 hs (5 semanas) para carreras de grado, 
 -   La materia de dicta en el aula 
 
 
