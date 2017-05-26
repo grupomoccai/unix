@@ -28,15 +28,6 @@ flexible lenguaje de programación.
 -   La materia de dicta en el aula 
 
 
-## Herramientas
-
--   [RStudio](https://www.rstudio.com/) - para trabajar con R
-    -   Alternativamente, pueden usar R en una terminal (por ejemplo, bash u otra) más el editor de texto
-        que quieran (por ejemplo, [emacs](https://www.gnu.org/software/emacs/) o, si no hay otra, [vim](http://www.vim.org/) ;)
--   [Slack](https://slack.com/) - para mantenernos en contacto entre todos
--   [Github](https://github.com/) - para compartir código
-
-
 ### Prof. Luis G. Moyano
 
 -   Inv. Adjunto CONICET y Prof. Adjunto FCEN
