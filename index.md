@@ -33,7 +33,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 -   <span class="underline">evelingiaroli@gmail.com</span> 
 
-1.  Créditos
+Créditos
 
     Esta web está construida con [Jekyll](https://jekyllrb.com/)  + [Reveal.js](https://github.com/hakimel/reveal.js) de Hakim El Hattab, y está fuertemente basado en el
     [Tutorial de purrr de Jenny Brian](https://jennybc.github.io/purrr-tutorial).
