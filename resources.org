@@ -12,14 +12,12 @@
 #+results:
 
 * Bibliografía
-- [[http://arrgh.tim-smith.us/][aRrgh: a newcomer’s (angry) guide to R]]
-- [[http://r4ds.had.co.nz/index.html][R for Data Science]]
-- [[http://rmarkdown.rstudio.com/lesson-1.html][R Markdown from RStudio]]
-- [[http://adv-r.had.co.nz/][Advanced R]]
-- [[http://adolfoalvarez.cl/the-hitchhikers-guide-to-the-hadleyverse/][The Hitchhiker's Guide to the Hadleyverse]]
-- [[http://www.burns-stat.com/documents/books/the-r-inferno/][The R Inferno]] (libro)
-- Hands-On Programming with R (libro)
-- R in Action (libro)
-- The Art of R Programming (libro)
-- R graphics cookbook (libro)
-- Practical Data Science with R (libro)
+- [Introduction to UNIX]({{ site.url }}/assets/1998_IntroUnix_UTS_OhioUSA.pdf)
+- [Aprenda Linux como si estuviera en primero]({{ site.url }}/assets/2000_AprendaUnix_Navarra.pdf)
+- [Introduction al sistema operativo UNIX]({{ site.url }}/assets/Intro_SO_Unix.pdf)
+- [Introduction to UNIX]({{ site.url }}/assets/TheUnixHaters-Handbook.pdf)
+- [The UNIX-HATERS Handbook]({{ site.url }}/assets/1998_IntroUnix_UTS_OhioUSA.pdf)
+- [UNIX for programmers and Users]({{ site.url }}/assets/UNIX for Programmers and Users (3d Edition).pdf)
+- [UNIX in a Nutshell]({{ site.url }}/assets/Unix In A Nutshell (4th Edition).pdf)
+- [UNIX Power Tools]({{ site.url }}/assets/Unix Power Tools (3rd Edition).pdf)
+- [Guía de referencia]({{ site.url }}/assets/unixref_es.pdf)
