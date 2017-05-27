@@ -25,7 +25,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 -   <span class="underline">rdanielmillan@gmail.com</span> 
 
-### Prof. Lc. Nora moyano
+### Prof. Lic. Nora moyano
 
 -   <span class="underline">moyanonora@gmail.com</span> 
 
