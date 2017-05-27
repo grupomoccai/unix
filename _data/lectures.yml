@@ -2,6 +2,7 @@ lecture_title: Clases
 lectures:
   
 - title: "Clase 1 - Intro"
+    - ({{ site.url }}/assets/unidad1.pdf)
   url: "01-lecture.html"
 
   #subitems:
