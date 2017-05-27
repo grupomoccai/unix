@@ -7,7 +7,7 @@
 
 # Bibliografía
 
--   [Introduction to UNIX] ({{ site.url }}/assets/1998_IntroUnix_UTS_OhioUSA.pdf)
+-   [Introduction to UNIX]({{ site.url }}/assets/1998_IntroUnix_UTS_OhioUSA.pdf)
 -   [Aprenda Linux como si estuviera en primero]({{ site.url }}/assets/2000_AprendaUnix_Navarra.pdf)
 -   [Introduction al sistema operativo UNIX]({{ site.url }}/assets/Intro_SO_Unix.pdf)
 -   [Introduction to UNIX]({{ site.url }}/assets/TheUnixHaters-Handbook.pdf)
