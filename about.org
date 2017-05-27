@@ -15,7 +15,7 @@ weight: 10
 
 -   Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior).
 
-** [Programa]({{ site.url }}/assets/B- Plantilla Programa.doc.pdf)
+** [Programa]({{ site.url }}/assets/B-Plantilla Programa.doc.pdf)
 
 ** Objetivos
 
