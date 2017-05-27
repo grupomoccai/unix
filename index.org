@@ -31,7 +31,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 -   <span class="underline">rdanielmillan@gmail.com</span> 
 
-*** Prof. Lc. Nora moyano
+*** Prof. Lic. Nora moyano
 
 -   <span class="underline">moyanonora@gmail.com</span> 
 
@@ -42,4 +42,5 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 *****  Créditos
 
     Esta web está construida con [Jekyll](https://jekyllrb.com/)  + [Reveal.js](https://github.com/hakimel/reveal.js) de Hakim El Hattab, y está fuertemente basado en el
-    [Tutorial de purrr de Jenny Brian](https://jennybc.github.io/purrr-tutorial).
+    [Tutorial de purrr de Jenny Brian](https://jennybc.github.io/purrr-tutorial). 
+
