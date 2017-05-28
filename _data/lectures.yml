@@ -2,7 +2,7 @@ lecture_title: Clases
 lectures:
   
 - title: "Clase 1 - Intro"
-  url: "unidad1.pdf"
+  url: unidad1.pdf
  # url: "({{ site.url }}/unidad1.pdf)"
   #<a href="unidad1.pdf">Haz clic aquí para el PDF</a>
 
