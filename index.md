@@ -16,7 +16,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 ## Fechas y Horarios
 -  Fecha de inicio: martes 30/05/2017.
 -  Fecha de finalización: viernes 30/06/2017.
-   -  La clase del martes 20/05/2017 se dictará el miércoles 21/06/2017 en aula y horario a convenir.
+   -  La clase del martes 20/06/2017 se dictará el miércoles 21/06/2017 en aula y horario a convenir.
 -  Duración: 30 hs para carreras de grado (5 semanas).
 -  Martes, teoría con ejemplos de 8:00hs a 9:30hs.
 -  Viernes, práctica con ejemplos de 8:00hs a 11:00hs.
