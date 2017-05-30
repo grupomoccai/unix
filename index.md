@@ -3,6 +3,8 @@ layout: default
 title: index 
 --- 
 
+<img style="position:absolute; TOP:50px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/pingu.png">
+<img style="position:absolute; TOP:150px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/logouncuyo.png">
 
 # Introducción a UNIX
 Este curso está orientado a alumnos de grado del ciclo superior de las carreras de Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior) de la FCAI-UNCuyo que deseen profundizar sus conocimientos en el manejo de datos en sistemas operativos basados en UNIX. El curso se centra en el manejo de documentos, carpetas, programas mediante *shell scripting* en __bashrc__, y en el acceso remoto a *clusters*.
@@ -12,6 +14,7 @@ Se estudiarán las metodologías de programación y algorítmica mediante presen
 del Prof.  <span class="underline"><a href="https://sites.google.com/site/rdanielmillan" target="_blank">Daniel Millán</a></span>. Además se realizarán prácticas en el laboratorio de informática donde se complementarán 
 aspectos introducidos en la teoría y se resolverán guías de problemas.
 
+Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
 
 ## Fechas y Horarios
 -  Fecha de inicio: martes 30/05/2017.
