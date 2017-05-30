@@ -17,8 +17,9 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 -   Martes, teoría con ejemplos de 8:00hs a 9:30hs.
 -   Viernes, práctica con ejemplos de 8:00hs a 11:00hs.
--   Fecha de inicio: martes 30/05/2017, fecha fin viernes 30/06/2017.
-    --   _Nota_: a clase del martes 20/05/2017 se dictará el miércoles 21/06/2017 en aula y horario a convenir.
+-   Fecha de inicio: martes 30/05/2017.
+-   Fecha de finalización: viernes 30/06/2017.
+    -   Nota: a clase del martes 20/05/2017 se dictará el miércoles 21/06/2017 en aula y horario a convenir.
 -   Duración: 30 hs para carreras de grado.
 -   La teoría se dicta en el aula 12 y la práctica en el aula 1.
 
