@@ -5,7 +5,7 @@ title: index
 
 
 # Introducción a UNIX
-Este curso está orientado a alumnos de grado del ciclo superior de las carreras de Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior) de la FCAI-UNCuyo que deseen profundizar sus conocimientos en el manejo de datos en sistemas operativos basados en UNIX. El curso se centra en el manejo de documentos, carpetas, programas mediante *shell scripting* en _bashrc_, y en el acceso remoto a *clusters*.
+Este curso está orientado a alumnos de grado del ciclo superior de las carreras de Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior) de la FCAI-UNCuyo que deseen profundizar sus conocimientos en el manejo de datos en sistemas operativos basados en UNIX. El curso se centra en el manejo de documentos, carpetas, programas mediante *shell scripting* en __bashrc__, y en el acceso remoto a *clusters*.
 
 Se dictarán 5 clases magistrales donde se expondrá el contenido de las unidades temáticas del curso. 
 Se estudiarán las metodologías de programación y algorítmica mediante presentaciones orales a cargo 
@@ -24,7 +24,8 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 ## Herramientas
 -  [PUTTY](https://putty.org/) es un cliente SSH que permite conectarse a servidores remotos desde Windows. En la **sala 1**  descargar la versión para 32-bits.
--  En [Biblio] pueden encontrar material para conocer más detalles del OS Unix y como trabajar en él.
+-  En [Biblio](https://introunix.github.io/resources.html) pueden encontrar material para conocer más detalles de como trabajar en UNIX.
+-  En [Recursos](https://introunix.github.io/) encontrarán ayuda para conectarse al _servidor virtual_ donde desarrollaremos las diversas actividades.
 
 ## Equipo Docente
 - Nos encuentran principalmente durante la mañana en la oficina/aula 40 (tercer piso -- postgraduación).
@@ -41,7 +42,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
    -  <span class="underline">evelingiaroli@gmail.com</span> 
 
 
-# Créditos
+## Créditos
 
 Esta web está construida con [Jekyll](https://jekyllrb.com/)  + [Reveal.js](https://github.com/hakimel/reveal.js) de Hakim El Hattab, y está fuertemente basado en el [Tutorial de purrr de Jenny Brian](https://jennybc.github.io/purrr-tutorial). 
 
