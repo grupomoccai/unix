@@ -46,10 +46,7 @@ Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
 
 
 ## Comentarios y recomendaciones
-
-<img style="position:absolute; TOP:250px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/frustration.png">
-
-<img style="WIDTH:360px; HEIGHT:300px; border:0" src="./images/frustration.png">
+<img style="WIDTH:300px; HEIGHT:240px; border:0" src="./images/frustration.png">
 
 
 -  UNIX fue diseñado __por programadores para ser usado por programadores__ en un entorno en que los usuarios son relativamente expertos y participan en el desarrollo de proyectos de software.
