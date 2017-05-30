@@ -23,7 +23,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 -  La teoría se dicta en el aula 12 y la práctica en el aula 1.
 
 ## Herramientas
--  [PUTTY](https://putty.org/) es un cliente SSH que permite conectarse a servidores remotos desde Windows. En la **sala 1**  descargar la versión para 32-bits.
+-  [PUTTY](http://www.putty.org/) es un cliente SSH que permite conectarse a servidores remotos desde Windows. En la **sala 1**  descargar la versión para 32-bits.
 -  En [Biblio](https://introunix.github.io/resources.html) pueden encontrar material para conocer más detalles de como trabajar en UNIX.
 -  En [Recursos](https://introunix.github.io/) encontrarán ayuda para conectarse al _servidor virtual_ donde desarrollaremos las diversas actividades.
 
@@ -41,6 +41,15 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 #### Ing. Evelin Giaroli
    -  <span class="underline">evelingiaroli@gmail.com</span> 
 
+
+## Comentarios y recomendaciones
+
+<img style="position:absolute; TOP:250px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./figs/frustration.png">
+-  UNIX fue diseñado **por programadores para ser usado por programadores** en un entorno en que los usuarios son relativamente expertos y participan en el desarrollo de proyectos de software.
+   -  *not user friendly*
+-  Frustrarse es típico y <span class="underline">temporal</span>.
+-  La curva de aprendizaje vs contenido del curso es _sigmoide_.
+-  Persistencia y dedicación **¡Kovalski!**
 
 ## Créditos
 
