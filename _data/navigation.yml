@@ -7,8 +7,8 @@
 - title: "Biblio"
   url: "/resources.html"
 
-#- title: "Data"
-# url: "/datasets.html"
+- title: "Recursos"
+  url: "/recursos.html"
 
 - title: "Sobre la materia"
   url: "/about.html"
