@@ -23,7 +23,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 ### Prof. Dr. Daniel Millán
 
--   <span class="underline">rdanielmillan@gmail.com</span> 
+-   <span class="underline">rdaniel.millan@gmail.com</span> 
 
 ### Prof. Lic. Nora moyano
 
