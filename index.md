@@ -3,8 +3,8 @@ layout: default
 title: index 
 --- 
 
-<img style="position:absolute; TOP:50px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/pingu.png">
-<img style="position:absolute; TOP:150px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/logouncuyo.png">
+<img style="position:absolute; TOP:50px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/pingu.jpg">
+<img style="position:absolute; TOP:150px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/logouncuyo.jpg">
 
 # Introducción a UNIX
 Este curso está orientado a alumnos de grado del ciclo superior de las carreras de Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior) de la FCAI-UNCuyo que deseen profundizar sus conocimientos en el manejo de datos en sistemas operativos basados en UNIX. El curso se centra en el manejo de documentos, carpetas, programas mediante *shell scripting* en __bashrc__, y en el acceso remoto a *clusters*.
@@ -48,6 +48,9 @@ Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
 ## Comentarios y recomendaciones
 
 <img style="position:absolute; TOP:250px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./images/frustration.png">
+
+<img style="WIDTH:360px; HEIGHT:300px; border:0" src="./images/frustration.png">
+
 
 -  UNIX fue diseñado __por programadores para ser usado por programadores__ en un entorno en que los usuarios son relativamente expertos y participan en el desarrollo de proyectos de software.
    -  *not user friendly*
