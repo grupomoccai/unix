@@ -5,6 +5,7 @@ title: index
 
 
 # Introducción a UNIX
+Este curso está orientado a alumnos de grado del ciclo superior de las carreras de Ingeniería en Industrias de la Alimentación, Ingeniería Química (ciclo superior) de la FCAI-UNCuyo que deseen profundizar sus conocimientos en el manejo de datos en sistemas operativos basados en UNIX. El curso se centra en el manejo de documentos y carpetas mediante *shell scripting*.
 
 Se dictarán 5 clases magistrales donde se expondrá el contenido de las unidades temáticas del curso. 
 Se estudiarán las metodologías de programación y algorítmica mediante presentaciones orales a cargo 
