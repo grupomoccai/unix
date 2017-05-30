@@ -3,10 +3,10 @@ lectures:
   
 - title: Clase 1
   subitems:
-  - title: "Unidad - Sistema Operativo Unix"
+  - title: "Unidad 1 - Sistema Operativo Unix"
     url: IntroUnix-unidad1.pdf
   
-  - title: "Trabajo Práctico"
+  - title: "Trabajo Práctico 1"
     url: IntroUnix-tp1.pdf
 
   #subitems:
