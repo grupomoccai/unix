@@ -18,7 +18,7 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 -   Viernes, de 8:00 a 11:00
 -   Fecha de inicio: 30/05/17
 -   Duración: 30 hs para carreras de grado
--   La teoría de dicta en el aula 13 
+-   La teoría de dicta en el aula 13 
 
 
 ### Prof. Dr. Daniel Millán
