@@ -2,7 +2,7 @@ lecture_title: Clases
 lectures:
   
 - title: "Clase 1 - Intro"
- # url: unidad1.pdf
+  url: IntroUnix-unidad1.pdf
 
   #subitems:
   #- title: "Slides clase 1"
