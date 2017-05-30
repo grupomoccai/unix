@@ -22,17 +22,25 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 -  Viernes, práctica con ejemplos de 8:00hs a 11:00hs.
 -  La teoría se dicta en el aula 12 y la práctica en el aula 1.
 
+## Herramientas
+-  [PUTTY](https://putty.org/)
+
 ## Equipo Docente
--  Dr. Daniel Millán (responsable)
-   <span class="underline">rdaniel.millan@gmail.com</span> 
--  Lic. Nora moyano
-   <span class="underline">moyanonora@gmail.com</span> 
--  Ing. Evelin Giaroli
-   <span class="underline">evelingiaroli@gmail.com</span> 
+- Nos encuentran principalmente durante la mañana en la oficina/aula 40 (tercer piso -- postgraduación).
+- Grupo de Modelado Computacional en Ciencias Aplicadas e Ingeniería (MoCCAI).
+
+###  Dr. Daniel Millán (responsable)
+   - Inv. Adjunto CONICET y Prof. Titular FCAI - Dpto. Ing. Mecánica.
+   -  <span class="underline">rdaniel.millan@gmail.com</span> 
+
+###  Lic. Nora moyano
+   -  <span class="underline">moyanonora@gmail.com</span> 
+
+### Ing. Evelin Giaroli
+   -  <span class="underline">evelingiaroli@gmail.com</span> 
 
 
- Créditos
+Créditos
 
-    Esta web está construida con [Jekyll](https://jekyllrb.com/)  + [Reveal.js](https://github.com/hakimel/reveal.js) de Hakim El Hattab, y está fuertemente basado en el
-    [Tutorial de purrr de Jenny Brian](https://jennybc.github.io/purrr-tutorial). 
+Esta web está construida con [Jekyll](https://jekyllrb.com/)  + [Reveal.js](https://github.com/hakimel/reveal.js) de Hakim El Hattab, y está fuertemente basado en el [Tutorial de purrr de Jenny Brian](https://jennybc.github.io/purrr-tutorial). 
 
