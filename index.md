@@ -33,19 +33,20 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 ####  Dr. Daniel Millán (responsable)
    - Inv. Adjunto CONICET y Prof. Titular FCAI - Dpto. Ing. Mecánica.
-   -  <span class="underline">rdaniel.millan@gmail.com</span> 
+   -  <span class="underline">rdaniel.millan@gmail.com</span>
 
 ####  Lic. Nora moyano
-   -  <span class="underline">moyanonora@gmail.com</span> 
+   -  <span class="underline">moyanonora@gmail.com</span>
 
 #### Ing. Evelin Giaroli
-   -  <span class="underline">evelingiaroli@gmail.com</span> 
+   -  <span class="underline">evelingiaroli@gmail.com</span>
 
 
 ## Comentarios y recomendaciones
 
 <img style="position:absolute; TOP:250px; LEFT:600px; WIDTH:360px; HEIGHT:300px; border:0" src="./figs/frustration.png">
--  UNIX fue diseñado **por programadores para ser usado por programadores** en un entorno en que los usuarios son relativamente expertos y participan en el desarrollo de proyectos de software.
+
+-  UNIX fue diseñado __por programadores para ser usado por programadores__ en un entorno en que los usuarios son relativamente expertos y participan en el desarrollo de proyectos de software.
    -  *not user friendly*
 -  Frustrarse es típico y <span class="underline">temporal</span>.
 -  La curva de aprendizaje vs contenido del curso es _sigmoide_.
