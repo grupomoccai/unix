@@ -9,7 +9,7 @@ Este curso está orientado a alumnos de grado del ciclo superior de las carreras
 
 Se dictarán 5 clases magistrales donde se expondrá el contenido de las unidades temáticas del curso. 
 Se estudiarán las metodologías de programación y algorítmica mediante presentaciones orales a cargo 
-del Prof. Daniel Millán url: https://sites.google.com/site/rdanielmillan/. Además se realizarán prácticas en el laboratorio de informática donde se complementarán 
+del Prof.  <span class="underline">Daniel Millán href="https://sites.google.com/site/rdanielmillan"</span>. Además se realizarán prácticas en el laboratorio de informática donde se complementarán 
 aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 
