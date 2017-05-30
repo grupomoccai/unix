@@ -9,7 +9,7 @@ Este curso está orientado a alumnos de grado del ciclo superior de las carreras
 
 Se dictarán 5 clases magistrales donde se expondrá el contenido de las unidades temáticas del curso. 
 Se estudiarán las metodologías de programación y algorítmica mediante presentaciones orales a cargo 
-del Prof. Daniel Millán. Además se realizarán prácticas en el laboratorio de informática donde se complementarán 
+del Prof. Daniel Millán url: https://sites.google.com/site/rdanielmillan/. Además se realizarán prácticas en el laboratorio de informática donde se complementarán 
 aspectos introducidos en la teoría y se resolverán guías de problemas.
 
 
@@ -19,12 +19,12 @@ aspectos introducidos en la teoría y se resolverán guías de problemas.
 -   Viernes, práctica con ejemplos de 8:00hs a 11:00hs.
 -   Fecha de inicio: martes 30/05/2017.
 -   Fecha de finalización: viernes 30/06/2017.
-    -   Nota: a clase del martes 20/05/2017 se dictará el miércoles 21/06/2017 en aula y horario a convenir.
+    -   La clase del martes 20/05/2017 se dictará el miércoles 21/06/2017 en aula y horario a convenir.
 -   Duración: 30 hs para carreras de grado.
 -   La teoría se dicta en el aula 12 y la práctica en el aula 1.
 
 
-### Prof. Dr. Daniel Millán
+### Prof. Dr. Daniel Millán (responsable)
 
 -   <span class="underline">rdaniel.millan@gmail.com</span> 
 
