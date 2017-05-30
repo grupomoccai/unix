@@ -1,8 +1,11 @@
 lecture_title: Clases
 lectures:
   
-- title: "Clase 1 - Intro"
+- title: "Clase 1 - Sistema Operativo Unix"
   url: IntroUnix-unidad1.pdf
+  
+  - title: "Clase 1 - Práctica"
+  url: IntroUnix-tp1.pdf
 
   #subitems:
   #- title: "Slides clase 1"
