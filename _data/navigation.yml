@@ -8,7 +8,7 @@
   url: "/resources.html"
 
 - title: "Recursos"
-  #url: "/datasets.html"
+  url: "/datasets.html"
 
 - title: "Sobre la materia"
   url: "/about.html"
