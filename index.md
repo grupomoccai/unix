@@ -36,7 +36,7 @@ Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
 
 ####  Dr. Daniel Millán (responsable)
    - Inv. Adjunto CONICET y Prof. Titular FCAI - Dpto. Ing. Mecánica.
-   -  <span class="underline">rdaniel.millan@gmail.com</span>
+   -  <span class="underline">dmillan@fcai.uncu.edu.ar</span>
 
 ####  Lic. Nora moyano
    -  <span class="underline">moyanonora@gmail.com</span>
