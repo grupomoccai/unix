@@ -28,7 +28,7 @@ Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
 ## Herramientas
 -  [PUTTY](http://www.putty.org/) es un cliente SSH que permite conectarse a servidores remotos desde Windows. En la **sala 1**  descargar la versión para 32-bits.
 -  En [Biblio](https://introunix.github.io/resources.html) pueden encontrar material para conocer más detalles de como trabajar en UNIX.
--  En [Recursos](https://introunix.github.io/) encontrarán ayuda para conectarse al _servidor virtual_ donde desarrollaremos las diversas actividades.
+-  En [Recursos](https://introunix.github.io/datasets.html) encontrarán ayuda para conectarse al _servidor virtual_ donde desarrollaremos las diversas actividades.
 
 ## Equipo Docente
 - Nos encuentran principalmente durante la mañana en la oficina/aula 40 (tercer piso -- postgraduación).
@@ -50,7 +50,7 @@ Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
 
 
 -  UNIX fue diseñado __por programadores para ser usado por programadores__ en un entorno en que los usuarios son relativamente expertos y participan en el desarrollo de proyectos de software.
-   -  *not user friendly*
+   -  *not user friendly!*
 -  Frustrarse es típico y <span class="underline">temporal</span>.
 -  La curva de aprendizaje vs contenido del curso es _sigmoide_.
 -  Persistencia y dedicación **¡Kovalski!**
