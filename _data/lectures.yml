@@ -4,10 +4,18 @@ lectures:
 - title: Clase 1
   subitems:
   - title: "Unidad 1 - Sistema Operativo Unix"
-    url: IntroUnix-unidad1.pdf
+    url: IntroUnix2017-Unidad1_apuntes.pdf
   
   - title: "Trabajo Práctico 1"
-    url: IntroUnix-tp1.pdf
+    url: IntroUnix2017-tp1.pdf
+
+- title: Clase 2
+  subitems:
+  - title: "Unidad 2 - Manejo de archivos y de procesos"
+    url: IntroUnix2017-Unidad2_apuntes.pdf
+  
+  - title: "Trabajo Práctico 2"
+    #url: IntroUnix2017-tp2.pdf
 
   #subitems:
   #- title: "Slides clase 1"
