@@ -15,7 +15,8 @@ lectures:
     url: IntroUnix2017-Unidad2_apuntes.pdf
   
   - title: "Trabajo Práctico 2"
-    #url: IntroUnix2017-tp2.pdf
+    url: IntroUnix2017-tp2.pdf
+    url: IntroUnix2017-tp2-anexos.pdf
 
   #subitems:
   #- title: "Slides clase 1"
