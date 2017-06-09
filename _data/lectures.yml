@@ -16,6 +16,8 @@ lectures:
   
   - title: "Trabajo Práctico 2"
     url: IntroUnix2017-tp2.pdf
+  
+  - title: "Apuntes Anexos al TP2"
     url: IntroUnix2017-tp2-anexos.pdf
 
   #subitems:
