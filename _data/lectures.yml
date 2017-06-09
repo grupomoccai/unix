@@ -19,6 +19,9 @@ lectures:
   
   - title: "Apuntes Anexos al TP2"
     url: IntroUnix2017-tp2-anexos.pdf
+    
+  - title: "Archivo de datos .tar.xz"
+     url: IntroUnix2017-tp2-data.tar.gz
 
   #subitems:
   #- title: "Slides clase 1"
