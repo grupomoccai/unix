@@ -23,6 +23,11 @@ lectures:
   - title: "Archivo de datos .tar.xz"
     url: IntroUnix2017-tp2-data.tar.xz
 
+- title: Clase 3
+  subitems:
+  - title: "Unidad 3 - Editor vi/vim y navegación en red"
+    url: IntroUnix2017-Unidad3_apuntes.pdf
+    
   #subitems:
   #- title: "Slides clase 1"
    # url: slides/01-lecture-slides.html
