@@ -27,7 +27,10 @@ lectures:
   subitems:
   - title: "Unidad 3 - Editor vi/vim y navegación en red"
     url: IntroUnix2017-Unidad3_apuntes.pdf
-    
+
+  - title: "Trabajo Práctico 3"
+    url: IntroUnix2017_tp3.pdf
+
   #subitems:
   #- title: "Slides clase 1"
    # url: slides/01-lecture-slides.html
