@@ -31,6 +31,11 @@ lectures:
   - title: "Trabajo Práctico 3"
     url: IntroUnix2017_tp3.pdf
 
+- title: Clase 4
+  subitems:
+  - title: "Unidad 4 - Intérpretes de órdenes de Unix"
+    url: IntroUnix2017-Unidad4_apuntes.pdf
+    
   #subitems:
   #- title: "Slides clase 1"
    # url: slides/01-lecture-slides.html
