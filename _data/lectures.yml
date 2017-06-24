@@ -38,73 +38,25 @@ lectures:
     
   - title: "Trabajo Práctico 4"
     url: IntroUnix2017-tp4.pdf
+
+- title: Clase 5
+  subitems:
+  - title: "Unidad 5 - Comandos avanzados para shell scripting"
+#    url: IntroUnix2017-Unidad5_apuntes.pdf
     
-  #subitems:
-  #- title: "Slides clase 1"
-   # url: slides/01-lecture-slides.html
+  - title: "Trabajo Práctico 5"
+    url: IntroUnix2017-tp5.pdf
 
-#- title: "Clase 2 - ggplot2"
- # url: 02-lecture.html
-
-  #subitems:
-    #- title: "Slides clase 2"
-     # url: slides/02-lecture-slides.html
-
-#- title: "Clase 3 - dplyr"
- # url: 03-lecture.html
-
-  #subitems:
-   # - title: "Slides clase 3"
-    #  url: slides/03-lecture-slides.html
-
-#- title: "Clase 4 - más dplyr + magrittr"
- # url: 04-lecture.html
-
-  #subitems:
-   # - title: "Slides clase 4"
-    #  url: slides/04-lecture-slides.html
-
-#- title: "Clase 5 - Funciones + RStudio"
- # url: 05-lecture.html
-
-  #subitems:
-    #- title: "Slides clase 5"
-     # url: slides/05-lecture-slides.html
-
-#- title: "Clase 6 - Tipos de datos"
- # url: 06-lecture.html
-
-  #subitems:
-   # - title: "Slides clase 6"
-    #  url: slides/06-lecture-slides.html
-    #- title: "R - Analisis de datos con Caret - Emmanuel"
-     # url: ../assets/R - Analisis de datos con Caret.pdf
-
-      
-#- title: "Clase 7 - Vectores extendidos + Subsetting"
- # url: 07-lecture.html
-
-  #subitems:
-   # - title: "Slides clase 7"
-    #  url: slides/07-lecture-slides.html
-    #- title: "Anova en R - Brenda"
-     # url: ../assets/Anova-en-R-2.pdf
-
-#- title: "Primer parcial"
- # url: 01-midterm-exam.html
-
-
-#- title: "Clase 8 - if + for"
- # url: 08-lecture.html
-
-  #subitems:
-   # - title: "Slides clase 8"
-    #  url: slides/08-lecture-slides.html
-
-#- title: "Clase 9 - Vectorization y familia *apply() "
- # url: 09-lecture.html
-
-  #subitems:
-   # - title: "Slides clase 9"
-    #  url: slides/09-lecture-slides.html
-
+- title: Exámenes para consulta
+  subitems:
+  -  title: "Examen Final 2016 - FCEN-UNCuyo"
+     url: IntroUnix2016_examenfinal.pdf
+     url: IntroUnix2016_examenfinal_solucion.tar.xz
+     url: data_unix_examen.tar.xz
+     
+  -  title: "Recuperatorio Examen Final 2016 - FCEN-UNCuyo"
+     url: IntroUnix2016_exafin-recupera.pdf
+     url: IntroUnix2016_exafin-recupera_solucion.tar.xz
+     url: data_financial.tar.xz
+     
+     
