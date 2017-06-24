@@ -52,17 +52,14 @@ lectures:
   subitems:
   -  title: "Examen Final 2016 - FCEN-UNCuyo" 
      url: IntroUnix2016_examenfinal.pdf     
-     subitems:
-     -  title: "Datos para realizar el examen final 2016"
-        url: data_unix_examen.tar.xz
-     
-     -  title:  "Solucion - Examen Final 2016 - FCEN-UNCuyo" 
-        url: IntroUnix2016_examenfinal_solucion.tar.xz
+  -  title: "Datos para realizar el examen final 2016"
+     url: data_unix_examen.tar.xz
+  -  title:  "Solucion - Examen Final 2016 - FCEN-UNCuyo" 
+     url: IntroUnix2016_examenfinal_solucion.tar.xz
      
   -  title: "Recuperatorio Examen Final 2016 - FCEN-UNCuyo"
      url: IntroUnix2016_exafin-recupera.pdf
-     subitems:
-     -  title: "Datos para realizar el recuperatorio del examen final 2016"
-        url: data_financial.tar.xz
-     -  title:  "Solucion - Recuperatorio Examen Final 2016 - FCEN-UNCuyo" 
-        url: IntroUnix2016_exafin-recupera_solucion.tar.xz
+  -  title: "Datos para realizar el recuperatorio del examen final 2016"
+     url: data_financial.tar.xz
+  -  title:  "Solucion - Recuperatorio Examen Final 2016 - FCEN-UNCuyo" 
+     url: IntroUnix2016_exafin-recupera_solucion.tar.xz
