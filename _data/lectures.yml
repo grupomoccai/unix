@@ -47,25 +47,10 @@ lectures:
   - title: "Trabajo Práctico 5"
     url: IntroUnix2017-tp5.pdf
 
+
 - title: Exámenes anteriores para consulta
   subitems:
   -  title: "Examen Final 2016 - FCEN-UNCuyo" 
      url: IntroUnix2016_examenfinal.pdf
-    subitems:
-    -  tile: "Datos para realizar el examen"
-       url: data_unix_examen.tar.xz
-
-    -  tile:  "Solucion - Examen Final 2016 - FCEN-UNCuyo" 
-       url: IntroUnix2016_examenfinal_solucion.tar.xz
-
-  subitems:     
-  -  title: "Recuperatorio Examen Final 2016 - FCEN-UNCuyo"
-     url: IntroUnix2016_exafin-recupera.pdf
-    subitems:
-    -  tile: "Datos para realizar el examen"
-       url: data_financial.tar.xz
-       
-    -  tile:  "Solucion - Recuperatorio Examen Final 2016 - FCEN-UNCuyo" 
-       url: IntroUnix2016_exafin-recupera_solucion.tar.xz
      
      
