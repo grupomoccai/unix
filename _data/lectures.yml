@@ -52,5 +52,12 @@ lectures:
   subitems:
   -  title: "Examen Final 2016 - FCEN-UNCuyo" 
      url: IntroUnix2016_examenfinal.pdf
+     subitems:
+    -  tile: "Datos para realizar el examen"
+       url: data_unix_examen.tar.xz
+
+    -  tile:  "Solucion - Examen Final 2016 - FCEN-UNCuyo" 
+       url: IntroUnix2016_examenfinal_solucion.tar.xz
+
      
      
