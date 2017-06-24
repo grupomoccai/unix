@@ -29,12 +29,15 @@ lectures:
     url: IntroUnix2017-Unidad3_apuntes.pdf
 
   - title: "Trabajo Práctico 3"
-    url: IntroUnix2017_tp3.pdf
+    url: IntroUnix2017-tp3.pdf
 
 - title: Clase 4
   subitems:
   - title: "Unidad 4 - Intérpretes de órdenes de Unix"
     url: IntroUnix2017-Unidad4_apuntes.pdf
+    
+  - title: "Trabajo Práctico 4"
+    url: IntroUnix2017-tp4.pdf
     
   #subitems:
   #- title: "Slides clase 1"
