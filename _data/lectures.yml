@@ -42,7 +42,7 @@ lectures:
 - title: Clase 5
   subitems:
   - title: "Unidad 5 - Comandos avanzados para shell scripting"
-#    url: IntroUnix2017-Unidad5_apuntes.pdf
+    url: IntroUnix2017-Unidad5_apuntes.pdf
     
   - title: "Trabajo Práctico 5"
     url: IntroUnix2017-tp5.pdf
