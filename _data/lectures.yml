@@ -31,6 +31,9 @@ lectures:
 
   - title: "Trabajo Práctico 3"
     url: IntroUnix2017-tp3.pdf
+    
+  - title: "Soluciones - Trabajo Práctico 3"
+    url: TP3.txt
 
 - title: Clase 4
   subitems:
