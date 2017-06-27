@@ -8,6 +8,8 @@ lectures:
   
   - title: "Trabajo Práctico 1"
     url: IntroUnix2017-tp1.pdf
+    title: "Soluciones - Trabajo Práctico 1"
+    url: TP1.txt
 
 - title: Clase 2
   subitems:
@@ -16,6 +18,8 @@ lectures:
   
   - title: "Trabajo Práctico 2"
     url: IntroUnix2017-tp2.pdf
+    title: "Soluciones - Trabajo Práctico 2"
+    url: TP2.txt
   
   - title: "Apuntes Anexos al TP2"
     url: IntroUnix2017-tp2-anexos.pdf
