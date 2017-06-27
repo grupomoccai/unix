@@ -55,8 +55,8 @@ lectures:
   -  title: "Datos para realizar el examen final 2016"
      url: data_unix_examen.tar.xz
   -  title:  "Solucion - Examen Final 2016 - FCEN-UNCuyo" 
-     url: IntroUnix2016_examenfinal_solucion.tar.xz
-    &nbsp;
+     url: IntroUnix2016_examenfinal_solucion.tar.xz <br>
+   
      
   -  title: "Recuperatorio Examen Final 2016 - FCEN-UNCuyo"
      url: IntroUnix2016_exafin-recupera.pdf
