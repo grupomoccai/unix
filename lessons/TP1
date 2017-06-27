@@ -1,0 +1,22 @@
+Introducción a UNIX: Trabajo Práctico 1
+
+Ejercicio 5
+
+2) ln -s pepe/gastos/auto/mecánico/fito  pepe/casa/.
+3) ls *a*
+4) ls *a
+5) ls ?a*a
+7) ls *[a,e,o,u]
+
+Ejercicio 6
+
+2) mkdir '$SHELL' 
+    rmdir '$SHELL'
+
+3) mkdir '#pepe' 
+    rmdir '#pepe'  
+
+4) mkdir '_pepe' 
+    rmdir '_pepe'  
+
+
