@@ -8,7 +8,8 @@ lectures:
   
   - title: "Trabajo Práctico 1"
     url: IntroUnix2017-tp1.pdf
-    title: "Soluciones - Trabajo Práctico 1"
+    
+  - title: "Soluciones - Trabajo Práctico 1"
     url: TP1.txt
 
 - title: Clase 2
@@ -16,17 +17,15 @@ lectures:
   - title: "Unidad 2 - Manejo de archivos y de procesos"
     url: IntroUnix2017-Unidad2_apuntes.pdf
   
-  - title: "Trabajo Práctico 2"
-    url: IntroUnix2017-tp2.pdf
-    title: "Soluciones - Trabajo Práctico 2"
-    url: TP2.txt
-  
   - title: "Apuntes Anexos al TP2"
     url: IntroUnix2017-tp2-anexos.pdf
     
   - title: "Archivo de datos .tar.xz"
     url: IntroUnix2017-tp2-data.tar.xz
-
+    
+   - title: "Soluciones - Trabajo Práctico 2"
+      url: TP2.txt
+    
 - title: Clase 3
   subitems:
   - title: "Unidad 3 - Editor vi/vim y navegación en red"
