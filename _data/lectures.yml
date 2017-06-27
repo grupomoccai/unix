@@ -7,8 +7,7 @@ lectures:
     url: IntroUnix2017-Unidad1_apuntes.pdf
   
   - title: "Trabajo Práctico 1"
-    url: IntroUnix2017-tp1.pdf
-    
+    url: IntroUnix2017-tp1.pdf 
   - title: "Soluciones - Trabajo Práctico 1"
      url: TP1.txt
 
@@ -22,8 +21,7 @@ lectures:
     
   - title: "Archivo de datos .tar.xz"
     url: IntroUnix2017-tp2-data.tar.xz
-    
-   - title: "Soluciones - Trabajo Práctico 2"
+  - title: "Soluciones - Trabajo Práctico 2"
       url: TP2.txt
     
 - title: Clase 3
