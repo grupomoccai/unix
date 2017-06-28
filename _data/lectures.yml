@@ -24,7 +24,7 @@ lectures:
     url: IntroUnix2017-tp2-data.tar.xz
     
   - title: "Soluciones - Trabajo Práctico 2"
-      url: TP2.txt
+    url: TP2.txt
     
 - title: Clase 3
   subitems:
