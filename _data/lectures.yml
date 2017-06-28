@@ -5,11 +5,10 @@ lectures:
   subitems:
   - title: "Unidad 1 - Sistema Operativo Unix"
     url: IntroUnix2017-Unidad1_apuntes.pdf
-  
   - title: "Trabajo Práctico 1"
     url: IntroUnix2017-tp1.pdf 
   - title: "Soluciones - Trabajo Práctico 1"
-     url: TP1.txt
+    url: TP1.txt
 
 - title: Clase 2
   subitems:
