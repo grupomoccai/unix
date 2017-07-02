@@ -44,6 +44,9 @@ lectures:
     
   - title: "Trabajo Práctico 4"
     url: IntroUnix2017-tp4.pdf
+    
+  - title: "Soluciones - Trabajo Práctico 4"
+    url: TP4
 
 - title: Clase 5
   subitems:
@@ -52,8 +55,8 @@ lectures:
     
   - title: "Trabajo Práctico 5"
     url: IntroUnix2017-tp5.pdf
-
-
+    
+ 
 - title: Exámenes anteriores para consulta
   subitems:
 
@@ -62,7 +65,7 @@ lectures:
   -  title: "Datos para realizar el examen final 2016"
      url: data_unix_examen.tar.xz
   -  title:  "Solucion - Examen Final 2016 - FCEN-UNCuyo" 
-     url: IntroUnix2016_examenfinal_solucion.tar.xz 
+     url: IntroUnix2016_examenfinal_solucion.tar.xz </br>
      
      
   -  title: "Recuperatorio Examen Final 2016 - FCEN-UNCuyo"
