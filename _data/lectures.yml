@@ -16,6 +16,9 @@ lectures:
   subitems:
   - title: "Unidad 2 - Manejo de archivos y de procesos"
     url: IntroUnix2017-Unidad2_apuntes.pdf
+    
+  - title: "Trabajo Práctico 2"
+    url: IntroUnix2017-tp2.pdf
   
   - title: "Apuntes Anexos al TP2"
     url: IntroUnix2017-tp2-anexos.pdf
@@ -56,6 +59,8 @@ lectures:
   - title: "Trabajo Práctico 5"
     url: IntroUnix2017-tp5.pdf
     
+    - title: "Soluciones - Trabajo Práctico 5"
+      url: TP5
  
 - title: Exámenes anteriores para consulta
   subitems:
