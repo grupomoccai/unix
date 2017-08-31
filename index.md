@@ -14,7 +14,7 @@ Se estudiarán las metodologías de programación y algorítmica mediante presen
 del Prof.  <span class="underline"><a href="https://sites.google.com/site/rdanielmillan" target="_blank">Daniel Millán</a></span>. Además se realizarán prácticas en el laboratorio de informática donde se complementarán 
 aspectos introducidos en la teoría y se resolverán guías de problemas.
 
-Curso basado en uno propuesto por William Knottenbelt, UK, 2001.
+Curso basado en uno propuesto por <span class="underline"><a href="https://www.doc.ic.ac.uk/~wjk/" target="_blank">William Knottenbelt</a></span>, UK, 2001.
 
 ## Fechas y Horarios
 -  Fecha de inicio: martes 30/05/2017.
