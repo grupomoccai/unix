@@ -55,12 +55,12 @@ lectures:
   subitems:
   - title: "Unidad 5 - Comandos avanzados para shell scripting"
     url: IntroUnix2017-Unidad5_apuntes.pdf
-    
+
   - title: "Trabajo Práctico 5"
     url: IntroUnix2017-tp5.pdf
-    
-    - title: "Soluciones - Trabajo Práctico 5"
-      url: TP5
+
+  - title: "Soluciones - Trabajo Práctico 5"
+    url: TP5
  
 - title: Exámenes anteriores para consulta
   subitems:
