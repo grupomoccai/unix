@@ -29,7 +29,7 @@ Curso basado en uno propuesto por <span class="underline"><a href="https://www.d
 -  En [Clases](https://introunix.github.io/lessons/) se irán colgando los apuntes y trabajos prácticos de las diferentes unidades, así como cualquier otro material referente a los contenidos.
 -  En [Biblio](https://introunix.github.io/resources.html) pueden encontrar material para conocer más detalles de como trabajar en UNIX.
 -  En [Recursos](https://introunix.github.io/datasets.html) encontrarán ayuda para conectarse al _servidor virtual_ donde desarrollaremos las diversas actividades.
--  [PUTTY](http://www.putty.org/) es un cliente SSH que permite conectarse a servidores remotos desde Windows. En la **sala 1**  descargar la versión para 32-bits.
+-  [PUTTY](http://www.putty.org/) es un cliente SSH que permite conectarse a servidores remotos desde Windows. En la **sala 1**  descargar la versión para 32-bits...
 
 ## Equipo Docente
 - Nos encuentran principalmente durante la mañana en la oficina/aula 40 (tercer piso -- postgraduación).
