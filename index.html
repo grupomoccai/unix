@@ -27,8 +27,15 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="about.html">Sobre la electiva</a></li>
-            <li><a href="2017_curso/2017index.html">Curso 2017</a></li>
-            <li><a href="2019_curso/2019index.html">Curso 2019</a></li>
+              
+            <div class="dropdown">
+			  <button onclick="myFunction()" class="dropbtn">Cursos Previos</button>
+				<i class="fa fa-caret-down"></i>
+			  <div id="myDropdown" class="dropdown-content">
+				<li><a href="2017_curso/2017index.html">Curso 2017</a></li>
+				<li><a href="2019_curso/2019index.html">Curso 2019</a></li>
+			  </div>
+			</div>
           </ul>
         </div>
         <!-- /.navbar-collapse --> </div>
@@ -36,6 +43,7 @@
 			<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js'></script>
 			<script src="index_archivos/index.js"></script>
     </header>
+    
     <style>
 	 .bottom-three {margin-bottom: 3cm;}
 	 strong {background-color: #d5f4e6;}
@@ -144,3 +152,4 @@ el empleo de SO tipo UNIX.</p>
     </div>
 
 </body></html>
+
