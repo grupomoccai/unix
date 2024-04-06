@@ -145,7 +145,30 @@ el empleo de SO tipo UNIX.</p>
 <p>Esta web está construida con <a href="https://jekyllrb.com/">Jekyll</a> + <a href="https://github.com/hakimel/reveal.js">Reveal.js</a> (este último de <a href="https://hakim.se/">Hakim El Hattab</a>), y está fuertemente basado en el
 <a href="https://jennybc.github.io/purrr-tutorial/">Tutorial de purrr de Jenny Brian</a>. El código fuente de esta página está en disponible en <a href="https://github.com/r-lectures/r-lectures.github.io">Github</a>, que hace a su vez de host del sitio a través de su servicio <a href="https://pages.github.com/">Github Pages</a>. Además de nuestros aportes propios!.</p>
        
-        <a href="https://sites.google.com/fcai.uncu.edu.ar/moccai"><p><img style="WIDTH:258px; HEIGHT:68px; border:0" src="../index_archivos/MoCCAi_logo_reduced.png"></p></a>
+        <a href="https://sites.google.com/fcai.uncu.edu.ar/moccai"><p><img style="WIDTH:258px; HEIGHT:68px; border:0" src="index_archivos/MoCCAi_logo_reduced.png"></p></a>
+
+    
+    <h2>Website Visitor Counter</h2>
+    <p>Total visits: <span id="visitorCount">0</span></p>
+    <button onclick="incrementCounter()">Increment</button>
+
+    <script>
+        // Initialize the counter from localStorage (if available)
+        let count = parseInt(localStorage.getItem("visitorCount")) || 0;
+
+        // Function to increment the counter
+        function incrementCounter() {
+            count++;
+            document.getElementById("visitorCount").textContent = count;
+
+            // Store the updated count in localStorage
+            localStorage.setItem("visitorCount", count);
+        }
+
+        // Display the initial count
+        document.getElementById("visitorCount").textContent = count;
+    </script>
+
 
       </div>
       <div id="site-side-bar" class="col-md-3">
